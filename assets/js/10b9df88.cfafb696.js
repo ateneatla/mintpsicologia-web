@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[857],{3924:function(s){s.exports=JSON.parse('{"allTagsPath":"/la-psicologa/tags","slug":"/la-psicologa/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/la-psicologa/tags/docusaurus"}')}}]);

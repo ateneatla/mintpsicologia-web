@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[372],{9706:function(a){a.exports=JSON.parse('{"allTagsPath":"/la-psicologa/tags","slug":"/la-psicologa/tags/hola","name":"hola","count":1,"permalink":"/la-psicologa/tags/hola"}')}}]);
