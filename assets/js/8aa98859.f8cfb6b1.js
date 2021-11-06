@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[269],{5084:function(i){i.exports=JSON.parse('{"allTagsPath":"/mintpsicologia-web/la-psicologa/tags","slug":"/mintpsicologia-web/la-psicologa/tags/psicologia","name":"psicolog\xeda","count":1,"permalink":"/mintpsicologia-web/la-psicologa/tags/psicologia"}')}}]);
