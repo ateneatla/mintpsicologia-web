@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[69],{1622:function(e){e.exports=JSON.parse('{"allTagsPath":"mintpsicologia-web/los-pacientes/tags","slug":"mintpsicologia-web/los-pacientes/tags/hello","name":"hello","count":2,"permalink":"mintpsicologia-web/los-pacientes/tags/hello"}')}}]);

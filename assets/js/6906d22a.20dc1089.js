@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[209],{4824:function(a){a.exports=JSON.parse('{"allTagsPath":"/mintpsicologia-web/la-psicologa/tags","slug":"/mintpsicologia-web/la-psicologa/tags/facebook","name":"facebook","count":1,"permalink":"/mintpsicologia-web/la-psicologa/tags/facebook"}')}}]);
