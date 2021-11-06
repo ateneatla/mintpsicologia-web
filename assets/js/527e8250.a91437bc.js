@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[57],{7645:function(e){e.exports=JSON.parse('{"permalink":"/mintpsicologia-web/la-psicologa","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
