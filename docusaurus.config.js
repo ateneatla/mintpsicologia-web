@@ -53,6 +53,11 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'es',
+    locales: ['es'],
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
