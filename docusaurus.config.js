@@ -27,11 +27,14 @@ const config = {
           showReadingTime: true,
           path: './la-psicologa',
           routeBasePath: 'la-psicologa',
-          editUrl:
-            'https://github.com/ateneatla/mintpsicologia-web/edit/main/la-psicologa/',
+          blogSidebarTitle: ' ',
+          blogSidebarCount: 0
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+            require.resolve('./src/css/doctoralia.css'),
+          ],
         },
       }),
     ],
@@ -47,8 +50,8 @@ const config = {
         id: 'pacientes',
         routeBasePath: 'los-pacientes',
         path: './los-pacientes',
-        editUrl:
-        'https://github.com/ateneatla/mintpsicologia-web/edit/main/los-pacientes/',
+        blogSidebarTitle: ' ',
+        blogSidebarCount: 0
       },
     ],
   ],
@@ -62,6 +65,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        hideOnScroll: true,
         logo: {
           alt: 'Mintpsicología',
           src: 'img/logo.svg',
