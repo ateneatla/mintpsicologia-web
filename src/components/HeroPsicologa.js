@@ -1,6 +1,4 @@
 import React from 'react';
-import styles from './HeroPsicologa.module.css';
-
 
 function HeroPsicologa() {
   const description = (
@@ -22,11 +20,14 @@ function HeroPsicologa() {
         facilito una primera sesión gratuíta para que ese primer contacto arroje
         un poco más de luz. Puedes solicitarla usando mi horario.
       </p>
+      <p>
+        Tambíen escribo un blog que puedes leer a continuación.
+      </p>
     </>
   )
   return (
-    <main>
-      <section className="container row" >
+    <div>
+      <section className="row" >
         <div className="col col--6" >
           <iframe
             scrolling="no"
@@ -39,7 +40,7 @@ function HeroPsicologa() {
           {description}
         </div>
       </section>
-    </main>
+    </div>
   );
 }
 
