@@ -75,6 +75,34 @@ const config = {
           {to: '/los-pacientes', label: 'los pacientes', position: 'left'},
         ],
       },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Contenido',
+            items: [
+              {
+                label: 'la psicóloga',
+                to: '/la-psicologa',
+              },
+              {
+                label: 'los pacientes',
+                to: '/los-pacientes',
+              },
+            ],
+          },
+          {
+            title: 'Redes sociales',
+            items: [
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/mintpsicologia/',
+              },
+             ],
+          },
+        ],
+        copyright: `<span class="copyleft">©</span> ${new Date().getFullYear()}. All Rights Reversed.`,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
