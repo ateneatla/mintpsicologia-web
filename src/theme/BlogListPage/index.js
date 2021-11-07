@@ -3,6 +3,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import BlogLayout from '@theme/BlogLayout';
 import BlogPostItem from '@theme/BlogPostItem';
 import HeroPsicologa from '../../components/HeroPsicologa';
+import HeroPacientes from '../../components/HeroPacientes';
 import BlogListPaginator from '@theme/BlogListPaginator';
 import {ThemeClassNames} from '@docusaurus/theme-common';
 
@@ -14,8 +15,8 @@ function BlogListPage(props) {
   const {blogDescription, blogTitle, permalink} = metadata;
   const isBlogOnlyMode = permalink === '/';
   const title = isBlogOnlyMode ? siteTitle : blogTitle;
-  console.log(props);
-  const hero = props.location.pathname.includes('psicologa') ? <HeroPsicologa /> : null;
+  const hero = props.location.pathname.includes('psicologa')
+    ? <HeroPsicologa /> : <HeroPacientes />;
   return (
     <BlogLayout
       title={title}

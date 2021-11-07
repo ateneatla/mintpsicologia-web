@@ -1,0 +1,20 @@
+.pacientes {
+  background-attachment: scroll;
+  background-image: url("/img/desktop-scaled.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  padding-top: 6rem;
+  margin: 0 auto;
+  font-size: 4rem;
+  color: rgb(235, 237, 240);
+}
+
+.description {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+}
