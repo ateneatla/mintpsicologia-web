@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mintpsicología',
-  baseUrl: '/mintpsicologia-web/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ateneatla', // Usually your GitHub org/user name.
   projectName: 'mintpsicologia-web', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  url: 'https://ateneatla.github.io',
+  url: 'https://mintpsicologia.es',
   trailingSlash: false,
 
   presets: [
