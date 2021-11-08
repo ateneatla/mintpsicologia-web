@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[783],{9032:function(a){a.exports=JSON.parse('{"allTagsPath":"/mintpsicologia-web/la-psicologa/tags","slug":"/mintpsicologia-web/la-psicologa/tags/pbe","name":"pbe","count":1,"permalink":"/mintpsicologia-web/la-psicologa/tags/pbe"}')}}]);
