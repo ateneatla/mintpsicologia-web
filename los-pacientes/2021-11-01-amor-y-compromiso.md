@@ -7,7 +7,6 @@ tags: [carta, paciente, testimonio]
 
 
 Ocurren sucesos en nuestra vida que nos cambian. A veces no somos conscientes de cuánto. A veces necesitamos un proceso terapéutico para ver hasta qué punto nos ha transformado. Porque **no es lo que vivimos, sino qué interpretamos**, lo que nos hace madurar, llegar a sitios dentro de nosotrxs mismxs para los que no habríamos estado preparadxs.
-<!--truncate-->
 
 Me gustaría compartir hoy una **reflexión de una paciente**, con su permiso y de forma anónima, que refleja el que fue un gran avance en su terapia y que **hará que quienes estéis pasando por un desamor tengáis esperanza**. Su carta dice así:
 «Una cosa es el amor y otra el compromiso. **El amor es un sentimiento**. Hay mañanas que te levantas llena de amor por la persona que tienes al lado, con un hambre voraz y empiezas con ella el desayuno. Hay mañanas que le miras y le ves calvo, y feo. Y tonto. Muchas mañanas.

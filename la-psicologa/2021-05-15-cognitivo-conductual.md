@@ -6,7 +6,6 @@ tags: [cognitivo-conductual, orientacion, reflexion]
 ---
 
 La orientación con la que trabajo se llama Cognitivo-conductual-social. Después de la carrera, profundicé en esta orientación con el máster del centro Bertrand Russell de Madrid (España). Me gustó y aprendí muchísimo.
-<!--truncate-->
 
 Además trabajo desde la **aceptación incondicional**. Eso signigica que entiendo que me pides ayuda porque sí has utilizado los recursos que tenías para superar los obstáculos que se te han presentado, pero a veces no hemos tenido la oportunidad de aprender lo que necesitábamos y es ahora cuando te autorregalas esta oportunidad. Así que no te juzgo, si llegas a ser mi paciente, yo te acepto tal cual eres. Simplemente lo has hecho lo mejor que has sabido y no estás encontrando la salida. Siempre, siempre, estás a tiempo de adquirir herramientas nuevas. Está en tu mano y no tienes por qué hacerlo en soledad.
 
