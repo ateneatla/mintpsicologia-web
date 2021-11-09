@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[856],{737:function(a){a.exports=JSON.parse('{"allTagsPath":"/la-psicologa/tags","slug":"/la-psicologa/tags/orientacion","name":"orientacion","count":1,"permalink":"/la-psicologa/tags/orientacion"}')}}]);

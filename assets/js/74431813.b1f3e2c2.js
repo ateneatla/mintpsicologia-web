@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[327],{9252:function(i){i.exports=JSON.parse('{"allTagsPath":"/mintpsicologia-web/la-psicologa/tags","slug":"/mintpsicologia-web/la-psicologa/tags/testimonio","name":"testimonio","count":1,"permalink":"/mintpsicologia-web/la-psicologa/tags/testimonio"}')}}]);
