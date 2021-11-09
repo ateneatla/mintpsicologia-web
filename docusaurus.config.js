@@ -14,7 +14,7 @@ const config = {
   organizationName: 'ateneatla', // Usually your GitHub org/user name.
   projectName: 'mintpsicologia-web', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  url: 'https://mintpsicologia.es',
+  url: 'https://www.mintpsicologia.es',
   trailingSlash: false,
 
   presets: [
