@@ -33,7 +33,7 @@ function HeroPsicologa() {
             scrolling="no"
             allowtransparency="true"
             src="//www.doctoralia.es/ajax/marketing/doctor/widget/big_with_calendar/maria-teresa-lopez-alonso"
-            sandbox='allow-scripts allow-same-origin'
+            sandbox='allow-scripts allow-same-origin allow-popups'
             className="doctoralia" />
         </div>
         <div className="col col--6" >
