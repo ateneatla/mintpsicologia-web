@@ -13,7 +13,7 @@ function HeroPsicologa() {
         De esa representación de mí dentro de tu cabeza derivan al menos dos
         posibles acciones: bien sales de esta página, y eso está bien porque no
         deberíamos elegir una psicóloga que no concuerde con nosotros, o bien
-        permanes con la web abierta porque no me has descartado.
+        permaneces con la web abierta porque no me has descartado.
       </p>
       <p>
         Sería poco habitual elegirme a ciegas para ser tu psicóloga así que te
