@@ -79,24 +79,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Contenido',
+            title: 'Redes sociales',
             items: [
               {
-                label: 'la psicóloga',
-                to: '/la-psicologa',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UCtDk1OSzdKDlufwUd894dWA',
               },
               {
-                label: 'los pacientes',
-                to: '/los-pacientes',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/mintpsicologia/',
               },
             ],
           },
           {
-            title: 'Redes sociales',
+            title: ' ',
             items: [
               {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/mintpsicologia/',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/MintPsicologia',
+              },
+              {
+                label: 'Research gate',
+                href: 'https://www.researchgate.net/profile/Maria-Lopez-Alonso',
+              },
+             ],
+          },
+          {
+            title: ' ',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/ateneatla/mintpsicologia-web',
+              },
+              {
+                label: 'Esta web no usa cookies',
+                href: 'https://www.cookieserve.com',
               },
              ],
           },
