@@ -108,8 +108,8 @@ const config = {
             title: ' ',
             items: [
               {
-                label: 'Git Hub',
-                href: 'https://github.com/ateneatla',
+                label: 'GitHub',
+                href: 'https://github.com/ateneatla/mintpsicologia-web',
               },
               {
                 label: 'Esta web no usa cookies',
