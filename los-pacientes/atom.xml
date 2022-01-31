@@ -21,5 +21,8 @@ Con suerte, después de entender un poco quién eres y qué quieres, encuentras 
             <name>María Teresa López Alonso</name>
             <uri>https://www.doctoralia.es/maria-teresa-lopez-alonso/psicologo/rivas-vaciamadrid</uri>
         </author>
+        <category label="carta" term="carta"/>
+        <category label="paciente" term="paciente"/>
+        <category label="testimonio" term="testimonio"/>
     </entry>
 </feed>
