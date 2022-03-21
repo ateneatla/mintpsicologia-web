@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[5033],{3356:function(s){s.exports=JSON.parse('{"allTagsPath":"/los-pacientes/tags","slug":"/los-pacientes/tags/testimonio","name":"testimonio","count":1,"permalink":"/los-pacientes/tags/testimonio"}')}}]);
