@@ -4,7 +4,7 @@ function HeroPsicologa() {
   const description = (
     <>
       <p>
-        Hola, entiendo que si estás aquí, si has pulsado en "la psicóloga",
+        Entiendo que si estás aquí, si has pulsado en "la psicóloga",
         quizá sea porque buscas una psicóloga con la que iniciar un proceso de
         terapia y quieres fabricarte una idea de quién o cómo soy (o para
         reafirmarte o cambiarla si ya me conocías de antes).
