@@ -1,7 +1,6 @@
 ---
 slug: amor-y-compromiso
 title: Amor y compromiso
-authors: mtla
 tags: [carta, paciente, testimonio]
 ---
 
