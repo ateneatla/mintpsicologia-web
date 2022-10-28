@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[7121],{2887:function(s){s.exports=JSON.parse('{"allTagsPath":"/la-psicologa/tags","slug":"/la-psicologa/tags/depresion","name":"depresi\xf3n","count":1,"permalink":"/la-psicologa/tags/depresion"}')}}]);

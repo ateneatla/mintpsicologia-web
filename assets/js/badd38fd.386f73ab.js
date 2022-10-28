@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[7899],{1595:function(a){a.exports=JSON.parse('{"label":"cognitivo-conductual","permalink":"/la-psicologa/tags/cognitivo-conductual","allTagsPath":"/la-psicologa/tags","count":1}')}}]);
