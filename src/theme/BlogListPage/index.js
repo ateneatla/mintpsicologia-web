@@ -1,7 +1,7 @@
 import React from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import BlogLayout from '@theme/BlogLayout';
-import BlogPostItem from '@theme/BlogPostItem';
+import BlogPostItems from '@theme/BlogPostItems';
 import HeroPsicologa from '../../components/HeroPsicologa';
 import HeroPacientes from '../../components/HeroPacientes';
 import BlogListPaginator from '@theme/BlogListPaginator';
@@ -29,16 +29,7 @@ function BlogListPage(props) {
       }}
       sidebar={sidebar}>
       {hero}
-      {items.map(({content: BlogPostContent}) => (
-        <BlogPostItem
-          key={BlogPostContent.metadata.permalink}
-          frontMatter={BlogPostContent.frontMatter}
-          assets={BlogPostContent.assets}
-          metadata={BlogPostContent.metadata}
-          truncated={BlogPostContent.metadata.truncated}>
-          <BlogPostContent />
-        </BlogPostItem>
-      ))}
+      <BlogPostItems items={items} />
       <BlogListPaginator metadata={metadata} />
     </BlogLayout>
   );
