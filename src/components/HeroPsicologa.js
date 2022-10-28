@@ -1,6 +1,9 @@
 import React from 'react';
+import styles from './HeroPacientes.module.css';
 
 function HeroPsicologa() {
+  const buttonClasses = `button button--primary button--lg ${styles.button}`
+
   const description = (
     <>
       <p>
@@ -20,9 +23,20 @@ function HeroPsicologa() {
         facilito una primera sesión gratuíta para que ese primer contacto arroje
         un poco más de luz. Puedes solicitarla usando mi horario.
       </p>
+    </>
+  )
+  const criticame = (
+    <>
       <p>
-        Tambíen escribo un blog que puedes leer a continuación.
+        Si eres mi paciente y tienes alguna opinión que quieras comunicarme
+        de manera <b>anónima</b> siempre estoy dispuesta a crecer:
       </p>
+      <div className={styles.buttons}>
+        <a href="https://forms.gle/ugw5oKBgFZXxKAc99"
+          className={buttonClasses}>
+          Critícame
+        </a>
+      </div>
     </>
   )
   return (
@@ -38,6 +52,7 @@ function HeroPsicologa() {
         </div>
         <div className="col col--6" >
           {description}
+          {criticame}
         </div>
       </section>
     </div>
