@@ -8,7 +8,7 @@ export default function Home() {
   const buttonClasses = `button button--primary button--lg ${styles.button}`
   return (
     <Layout
-      description="Psicología online">
+      description="Psicóloga online. Especialista en depresión, trastornos de ansiedad y trastornos de personalidad.">
       <main>
         <div className={styles.hero}>
           <div className={styles.buttons}>

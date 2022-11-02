@@ -27,6 +27,7 @@ const config = {
           showReadingTime: true,
           path: './la-psicologa',
           routeBasePath: 'la-psicologa',
+          blogTitle: 'Blog de la psicóloga',
           blogDescription: 'Soy Teresa López Alonso y he escrito estas entradas para que sepas como trabajo.',
           blogSidebarTitle: ' ',
           blogSidebarCount: 0
@@ -51,6 +52,7 @@ const config = {
         id: 'pacientes',
         routeBasePath: 'los-pacientes',
         path: './los-pacientes',
+        blogTitle: 'Blog de los pacientes',
         blogDescription: 'Aquí los pacientes comparten reflexiones y testimonios de forma anónima.',
         blogSidebarTitle: ' ',
         blogSidebarCount: 0
@@ -67,7 +69,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'description', content: 'Psicóloga online. Especialista en depresión, trastornos de ansiedad y trastornos de personalidad.'},
         {name: 'keywords', content: 'mintpsicologia, psicólogo online, psicólogos online, Maria Teresa López Alonso, terapia online, consulta psicológica, ayuda psicologia online'}
       ],
       navbar: {
