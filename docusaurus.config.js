@@ -67,7 +67,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'description', content: 'Psicóloga online. Especialista en depresión, trastornos de ansiedad y trastornos de personalidad.'},
         {name: 'keywords', content: 'mintpsicologia, psicólogo online, psicólogos online, Maria Teresa López Alonso, terapia online, consulta psicológica, ayuda psicologia online'}
       ],
       navbar: {
