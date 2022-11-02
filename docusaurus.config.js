@@ -64,6 +64,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: 'mintpsicologia, psicólogo online, psicólogos online, Maria Teresa López Alonso, terapia online, consulta psicológica, ayuda psicologia online'}],
       navbar: {
         hideOnScroll: true,
         logo: {
