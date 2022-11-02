@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[6698],{3493:function(e){e.exports=JSON.parse('{"permalink":"/la-psicologa/tags/pbe","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Soy Teresa L\xf3pez Alonso y he escrito estas entradas para que sepas como trabajo.","blogTitle":"Blog"}')}}]);
