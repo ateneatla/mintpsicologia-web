@@ -61,7 +61,9 @@ function Criticame() {
 
 function Contacto(): JSX.Element {
   return (
-    <Layout>
+    <Layout
+      title="Contacto"
+      description="Ponte en contacto con María Teresa López Alonso psicóloga.">
       <ContactoHeader />
       <div className="container margin-vert--lg">
         <main>
