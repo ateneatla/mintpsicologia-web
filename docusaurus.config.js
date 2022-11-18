@@ -80,6 +80,7 @@ const config = {
         items: [
           {to: '/la-psicologa', label: 'la psicóloga', position: 'left'},
           {to: '/los-pacientes', label: 'los pacientes', position: 'left'},
+          {to: '/contacto', label: 'contacto', position: 'left'},
         ],
       },
       footer: {
