@@ -2,7 +2,6 @@
 slug: depresion-enfermedad
 title: "La depresion no es una enfermedad"
 authors: mtla
-tags: [frase de cuñao, reflexión, depresión]
 ---
 
 

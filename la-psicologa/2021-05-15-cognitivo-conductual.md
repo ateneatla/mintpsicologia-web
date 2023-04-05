@@ -2,7 +2,6 @@
 slug: cognitivo-conductual
 title: Cognitivo conductual
 authors: mtla
-tags: [cognitivo-conductual, orientacion, reflexion]
 ---
 
 La orientación con la que trabajo se llama Cognitivo-conductual-social. Después de la carrera, profundicé en esta orientación con el máster del centro Bertrand Russell de Madrid (España). Me gustó y aprendí muchísimo.
