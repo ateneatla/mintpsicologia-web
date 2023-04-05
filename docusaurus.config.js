@@ -24,7 +24,7 @@ const config = {
       ({
         docs: false,
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           path: './la-psicologa',
           routeBasePath: 'la-psicologa',
           blogTitle: 'Blog de la psicóloga',
@@ -51,6 +51,7 @@ const config = {
          */
         id: 'pacientes',
         routeBasePath: 'los-pacientes',
+        showReadingTime: false,
         path: './los-pacientes',
         blogTitle: 'Blog de los pacientes',
         blogDescription: 'Aquí los pacientes comparten reflexiones y testimonios de forma anónima.',
