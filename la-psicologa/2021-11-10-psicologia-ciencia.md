@@ -2,7 +2,6 @@
 slug: psicologia-ciencia
 title: "La Psicología no es una ciencia"
 authors: mtla
-tags: [carta, paciente, testimonio]
 ---
 
 Hace unos años cenaba con B después de una dura semana. Después del segundo viaje al bufet, tras un punto y aparte de la conversación anterior acerca de lo dura que me resultaba la única asignatura del máster que he llevado al día y cuánto tendría que hacer en navidades, con una sonrisa sardónica y mirándome de soslayo me dijo “No entiendo por qué te empeñas, Teresa. La **Psicología no es una ciencia**” y esperó en el silencio. Como el pirómano que contempla el crepitar de la chispa que encenderá el mundo, mientras mi sonrisa se apagaba, mi mirada se llenaba de dolor y mi ceño se fruncía a la defensiva. Lo que B piense de mí me afectaba mucho. A veces de forma incontrolable.

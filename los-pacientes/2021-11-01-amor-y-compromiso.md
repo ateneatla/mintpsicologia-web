@@ -1,7 +1,6 @@
 ---
 slug: amor-y-compromiso
 title: Amor y compromiso
-tags: [carta, paciente, testimonio]
 ---
 
 

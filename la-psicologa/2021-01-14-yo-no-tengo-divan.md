@@ -2,7 +2,6 @@
 slug: yo-no-tengo-divan
 title: Yo no tengo un diván
 authors: mtla
-tags: [reflexion, psicología basada en evidencia, pbe, psicología]
 ---
 
 Una familiar es terapeuta transpersonal. En la última reunión navideña hablabamos ella y yo de que lo importante es que, trabajes como trabajes, seas **honesta** contigo misma y con tus pacientes. Porque al fin y al cabo son tus clientes y se merecen saber lo que compran.
