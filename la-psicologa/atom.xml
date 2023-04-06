@@ -19,9 +19,6 @@ Replicarlos es absurdo, lo importante, como en cada discusión con B, fue la ref
             <name>María Teresa López Alonso</name>
             <uri>https://www.doctoralia.es/maria-teresa-lopez-alonso/psicologo/rivas-vaciamadrid</uri>
         </author>
-        <category label="carta" term="carta"/>
-        <category label="paciente" term="paciente"/>
-        <category label="testimonio" term="testimonio"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cognitivo conductual]]></title>
@@ -34,9 +31,6 @@ Replicarlos es absurdo, lo importante, como en cada discusión con B, fue la ref
             <name>María Teresa López Alonso</name>
             <uri>https://www.doctoralia.es/maria-teresa-lopez-alonso/psicologo/rivas-vaciamadrid</uri>
         </author>
-        <category label="cognitivo-conductual" term="cognitivo-conductual"/>
-        <category label="orientacion" term="orientacion"/>
-        <category label="reflexion" term="reflexion"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yo no tengo un diván]]></title>
@@ -53,10 +47,6 @@ Lo que desarrolló Freud fue el psicoanális. Una corriente de la Psicología, u
             <name>María Teresa López Alonso</name>
             <uri>https://www.doctoralia.es/maria-teresa-lopez-alonso/psicologo/rivas-vaciamadrid</uri>
         </author>
-        <category label="reflexion" term="reflexion"/>
-        <category label="psicología basada en evidencia" term="psicología basada en evidencia"/>
-        <category label="pbe" term="pbe"/>
-        <category label="psicología" term="psicología"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[La depresion no es una enfermedad]]></title>
@@ -69,8 +59,5 @@ Lo que desarrolló Freud fue el psicoanális. Una corriente de la Psicología, u
             <name>María Teresa López Alonso</name>
             <uri>https://www.doctoralia.es/maria-teresa-lopez-alonso/psicologo/rivas-vaciamadrid</uri>
         </author>
-        <category label="frase de cuñao" term="frase de cuñao"/>
-        <category label="reflexión" term="reflexión"/>
-        <category label="depresión" term="depresión"/>
     </entry>
 </feed>

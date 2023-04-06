@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[5537],{1907:function(a){a.exports=JSON.parse('{"label":"psicolog\xeda basada en evidencia","permalink":"/la-psicologa/tags/psicologia-basada-en-evidencia","allTagsPath":"/la-psicologa/tags","count":1}')}}]);

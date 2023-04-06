@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[570],{2718:function(a){a.exports=JSON.parse('{"label":"frase de cu\xf1ao","permalink":"/la-psicologa/tags/frase-de-cunao","allTagsPath":"/la-psicologa/tags","count":1}')}}]);
