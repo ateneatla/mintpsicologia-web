@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[585],{2242:function(e){e.exports=JSON.parse('{"permalink":"/los-pacientes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Aqu\xed los pacientes comparten reflexiones y testimonios de forma an\xf3nima.","blogTitle":"Blog de los pacientes"}')}}]);

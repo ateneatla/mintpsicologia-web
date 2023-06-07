@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[122],{9797:function(e){e.exports=JSON.parse('{"label":"despedida","permalink":"/los-pacientes/tags/despedida","allTagsPath":"/los-pacientes/tags","count":1}')}}]);
