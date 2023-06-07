@@ -4,21 +4,24 @@ function HeroPsicologa() {
   const description = (
     <>
       <p>
+        Hola, encantada.
         Entiendo que si estás aquí, si has pulsado en "la psicóloga",
         quizá sea porque buscas una psicóloga con la que iniciar un proceso de
         terapia y quieres fabricarte una idea de quién o cómo soy (o para
         reafirmarte o cambiarla si ya me conocías de antes).
       </p>
       <p>
-        De esa representación de mí dentro de tu cabeza derivan al menos dos
-        posibles acciones: bien sales de esta página, y eso está bien porque no
-        deberíamos elegir una psicóloga que no concuerde con nosotros, o bien
-        permaneces con la web abierta porque no me has descartado.
+        Si has llegado hasta aquí probablemente sea porque algún 
+        expaciente me ha recomendado y quieres saber más. 
       </p>
       <p>
-        Sería poco habitual elegirme a ciegas para ser tu psicóloga así que te
-        facilito una primera sesión gratuíta para que ese primer contacto arroje
-        un poco más de luz. Puedes solicitarla usando mi horario.
+        Esta web es para eso y para que puedas encontrar toda la
+        información que necesites con total transparencia antes 
+        de que empecemos terapia.
+      </p>
+      <p>
+        Si quieres coger cita, puedes contactar conmigo
+        o seleccionarla directamente en mi horario.
       </p>
     </>
   )
