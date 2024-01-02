@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmintpsicologia_web=self.webpackChunkmintpsicologia_web||[]).push([[769],{2338:e=>{e.exports=JSON.parse('{"permalink":"/la-psicologa","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Soy Teresa L\xf3pez Alonso y he escrito estas entradas para que sepas como trabajo.","blogTitle":"Blog de la psic\xf3loga"}')}}]);
